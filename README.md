@@ -1,3 +1,5 @@
+![Result](https://github.com/Metraaa7/phpoop_Practic_1/assets/114976507/b404f54a-7d24-4c5f-aa68-73360c17844d)
+
 #### The exercise for the PHP course "Learn PHP The Right Way" lesson 2.33.
 
 ---
